@@ -8,6 +8,18 @@ veritabanını yüklemek için kurulu SQL management studio üzerinde veritaban�
 
 veritabanı ve uygulama ile ilgili ayarlar app.config dosyası içerisinde ayarlanmıştır
 
+veritabanı tabloları oluşturulurken normalizasyon kurallarına uyulmaya çalışılmıştır
+
+main method WinTicket/Program.cs içerisinde tanımlanmıştır
+
+user role'leri Model/UserRole.cs dosyasında admin ve çalışan olmak üzere tanımlanmıştır
+
+arayüz BaseForm.cs dosyasında tanımlanmış Form sınıfından inherit etmiştir. Diğer tablo arayüzleri için bu BaseForm referans alınmıştır
+
+WinTicketDataSet.xsd içerisinde veri tabanı şemaları incelenebilir
+
+SQLDataAdapter sınıfı veritabanı nesneleri üzerinde işlem yapmak ve veritabanı nesnelerini çekmek için kullanılmaktadır
+
 tanımlı kullanıcı -> <b>ADI:</b> admin <b>ŞİFRE:</b> admin
 
 Visual studio community 2022 yüklenebilir.
