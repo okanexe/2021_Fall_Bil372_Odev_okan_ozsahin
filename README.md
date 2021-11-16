@@ -1,3 +1,5 @@
+youtube üzerinden video anlatım linki sonda eklenmiştir
+
 öncelikle MSSQL server kurulu olması gerek
 
 min .NET 4.6 gereklidir
@@ -57,5 +59,7 @@ Geçen Süre 00:00:00.84
 Derleme başarılı oldu.
 ```
 
-2011011051
-Okan Özşahin
+videolu anlatım için: [Youtube](https://www.youtube.com/watch?v=6OPKL8UEA90 ).
+
+<p>2011011051<br>
+Okan Özşahin</p>
