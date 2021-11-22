@@ -1,4 +1,4 @@
-youtube üzerinden video anlatım linki sonda eklenmiştir
+youtube üzerinden video anlatım linki sonda eklenmiştir. 2.video da eklenmiştir. GUI gösterilmiştir.
 
 öncelikle MSSQL server kurulu olması gerek
 
@@ -59,7 +59,8 @@ Geçen Süre 00:00:00.84
 Derleme başarılı oldu.
 ```
 
-videolu anlatım için: [Youtube](https://www.youtube.com/watch?v=6OPKL8UEA90 ).
+videolu anlatım için: [Youtube](https://www.youtube.com/watch?v=6OPKL8UEA90 ).<br>
+2.video: [GUI tanıtım](https://www.youtube.com/watch?v=qcV5hzs686c).
 
 <p>2011011051<br>
 Okan Özşahin</p>
